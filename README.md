@@ -3,6 +3,7 @@ A sample Dapp made from solidity
 
 Use firefox, 
 Use the right port from ganache: 7545
+Add a new account in metamask with the private key from ganache
 
 https://github.com/dappuniversity/election/issues/1
 
